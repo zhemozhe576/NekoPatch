@@ -51,7 +51,7 @@
 
 FolkPatch 遵循 GNU General Public License v3 [GPL-3](http://www.gnu.org/copyleft/gpl.html) 许可证开源。
 
-## FolkPatch讨论交流
+## NekoPatch讨论交流
 
 - Telegram 频道: [@FolkPatch](https://t.me/FolkPatch)
 - QQ群: 1074588103
