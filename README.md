@@ -13,7 +13,7 @@
 
 **语言 / Language:** [中文](README.md) | [English](README_EN.md)
 
-**FolkPatch** 是基于 [APatch](https://github.com/bmax121/APatch) 开发的扩展非并行分支，只通过优化界面设计和功能扩展，不引入新的核心功能。
+**NekoPatch** 是基于 [APatch](https://github.com/bmax121/APatch) 开发的扩展非并行分支，只通过优化界面设计和功能扩展，不引入新的核心功能。
 
 ## 主要特性
 
